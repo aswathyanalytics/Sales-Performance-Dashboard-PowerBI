@@ -43,3 +43,13 @@ The dashboard provides insights into:
 ## Dataset
 
 Sample Superstore Dataset
+
+## Dashboard Preview
+
+### Executive Sales Performance Dashboard
+
+![Dashboard Page 1](dashboard_page1.png.png)
+
+### Sales Drilldown Analysis
+
+![Dashboard Page 2](dashboard_page2.png.png)
